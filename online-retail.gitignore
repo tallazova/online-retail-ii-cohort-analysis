@@ -1,0 +1,5 @@
+.venv/
+*.xlsx
+*_clean.csv
+.ipynb_checkpoints/
+__pycache__/
